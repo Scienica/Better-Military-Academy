@@ -2,6 +2,7 @@
 {
 		"name": "Military Academy",
 		"hurryCostModifier": 1,
+		"Cost": 300,920
 		"maintenance": 3,
 		"requiredBuilding": "Armory"
                 "greatPersonPoints": {"Great General": 1}
