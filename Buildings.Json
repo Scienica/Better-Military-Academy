@@ -10,7 +10,7 @@
 		"uniques": [
 			"New [Military] units start with [25] Experience [in this city]",
 			"Destroyed when the city is captured",
-			"[5] units cost no maintenance", //Are you aware of this stacking for multiple cities so you effectively pay no maintenance at all?
+			"[5] units cost no maintenance", 
 			"[2] free [Musketmen] units appear",
 			"Requires at least [12] population"
 			]
