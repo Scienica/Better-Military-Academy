@@ -1,8 +1,10 @@
+[
+
 //Industial Era
 {
 		"name": "Military Academy",
-		"hurryCostModifier": 1,
-		"Cost": 300,920
+		"hurryCostModifier": 3,
+		"Cost": 300
 		"maintenance": 3,
 		"requiredBuilding": "Armory"
                 "greatPersonPoints": {"Great General": 1}
@@ -17,3 +19,5 @@
 			]
 		"requiredTech": "Military Science"
 	},
+
+]
